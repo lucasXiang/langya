@@ -7,6 +7,4 @@ zuul:
       path: /langya/**
       service-id: LANGYA-GATEWAY
       
-ribbon:
-  eager-load:
-    enabled: true
+
