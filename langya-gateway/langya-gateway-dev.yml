@@ -1,6 +1,4 @@
-server:
-  port: 9090
-  
+
 zuul:
   routes:
     zuul-url: 
