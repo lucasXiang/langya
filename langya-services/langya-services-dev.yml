@@ -1,3 +1,2 @@
-server:
-  port: 8762
+
 foo: hello-world (foo version 1) 
